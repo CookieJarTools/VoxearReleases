@@ -1,5 +1,23 @@
 format = 1
-generated = "2026-10-31T17:03:47.82696611Z"
+generated = "2026-11-01T16:48:41.390817312Z"
+
+[[release]]
+version = "0.1.0-nightly.20261101"
+channel = "nightly"
+published = "2026-11-01T16:48:41.390342593Z"
+notes = "https://github.com/CookieJarTools/VoxearReleases/releases/tag/engine-v0.1.0-nightly.20261101"
+
+[[release.download]]
+platform = "linux-x86_64"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0-nightly.20261101/voxear-0.1.0-nightly.20261101-linux-x86_64.tar.zst"
+size = 45772299
+sha256 = "6688d9d5d72c8e4efc9c416ae9bc08c049c9e3ec531c0be6169e56c9bea233b3"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslSxOP1ZpTi3qc9obIA5M+MNwibIXA/SGgZcWkXNVkzdZLv5wUsbIZbey7j9zUxJDGSTS2Fq2mwchB3ehisBEjQAc=
+trusted comment: timestamp:1793551719\tfile:voxear-0.1.0-nightly.20261101-linux-x86_64.tar.zst\tversion:0.1.0-nightly.20261101
+9KyAUx+WFp4cJ/+VXDSWarCQumPsvK77SrRn5t/d+uQADDD52obf7CAOaLPtAaaPFvDw866HymQ4smQvA3vyBA==
+"""
 
 [[release]]
 version = "0.1.0-nightly.20261031.2"
