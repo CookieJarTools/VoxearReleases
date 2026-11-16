@@ -1,5 +1,73 @@
 format = 1
-generated = "2026-11-01T16:48:41.390817312Z"
+generated = "2026-11-16T14:21:16.621040797Z"
+
+[[release]]
+version = "0.1.0"
+channel = "stable"
+published = "2026-11-16T14:21:15.841998576Z"
+
+[[release.download]]
+platform = "linux-x86_64"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0/voxear-0.1.0-linux-x86_64.tar.zst"
+size = 132581537
+sha256 = "dc37cda5105b3b6fb21906603f36369dd02adea793df3694834e07f25c1363a1"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS8WKssOQ23t+0/HfnHysKYLLHy408jGAnDYaE9QeRyEjWMEdf+3RXsFiJLeLd6cezWwtQYax3NRnSpcuzeZptw4=
+trusted comment: timestamp:1794838875\tfile:voxear-0.1.0-linux-x86_64.tar.zst\tversion:0.1.0
+Gtio02zyRPH7rsw2x1imEWqPPehGgPJ3khuHHgKNKfkMAavpAKO1pL2gmFMtykHU17H3XgJvMs7GEnCAtFYbAA==
+"""
+
+[[release.download.module]]
+name = "server"
+title = "Dedicated Server"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0/voxear-0.1.0-linux-x86_64-server.tar.zst"
+size = 16950612
+sha256 = "3bd1ef59eba4b0537c23c7e3fa197d70bc04e922396e8af5903f961214945bd6"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS+YDRFmbWM6hyASQN1cLBeWeoGdt9vzuHeqDyEQ/qfv+YpnBC3SZXsel3671/zndTkCIeNFdeybwrH7dRPD4dAo=
+trusted comment: timestamp:1794838876\tfile:voxear-0.1.0-linux-x86_64-server.tar.zst\tversion:0.1.0
+Hz1k9uC6TSN68n5grKSyZkh9eV6UuOTTlj+rXBoiG1KPrWY3RUYZu41/o0YPhut9TQVf/PyPd0W59PaSuuqQDQ==
+"""
+
+[[release.download]]
+platform = "windows-x86_64"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0/voxear-0.1.0-windows-x86_64.tar.zst"
+size = 62168416
+sha256 = "92a666662592da3965dc5248f320f76e9a2b9f42d081228b02fb17766aed92c7"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslSxtWnIrJYsffkhxmzKYjuE5tAtcFChzGp6BztNdSFosoSu39hW3ivD6xJvM7YBHkNZiUmb1NRD6WDFd9q1MEFwM=
+trusted comment: timestamp:1794838876\tfile:voxear-0.1.0-windows-x86_64.tar.zst\tversion:0.1.0
+QJz9RPZwNAyCEOF8UuRziCoFaWQmIqxKxxZLbrkhixCFj+oHYRd+bvHjYCYTlfDnV1e3cF7AOBDDpOl18I0iDg==
+"""
+
+[[release.download.module]]
+name = "server"
+title = "Dedicated Server"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0/voxear-0.1.0-windows-x86_64-server.tar.zst"
+size = 15196868
+sha256 = "0747b3385a03bbb09988f5c196934c609d8f069e49a241fe79268a1ce2eec7f5"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS+lR84MhHr7dPX2xoJjpxnHfcaTt4CaImQ82Cbt+zpzPJRgYy+2nqKAsiBA8Aa2gSX007vIjEi7cZHZFWERFqQs=
+trusted comment: timestamp:1794838876\tfile:voxear-0.1.0-windows-x86_64-server.tar.zst\tversion:0.1.0
+TLo+ApB0I92szojVPT5nlB4hilOs8slreq+mPcKFDZeb+hbzpUbTOaC97C76iIb8ZGDtdD3LmA6W4dd3aHu6Cw==
+"""
+
+[[release.module]]
+name = "manual"
+title = "Voxear Manual"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.0/voxear-0.1.0-manual.tar.zst"
+size = 313002
+sha256 = "3f0290dbb59e3efe6e97d8dadc3bf04b0a39ee52889f99f5fd28bc1bec2fad60"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslSwOGvCYOewdNk4HzPc39WZebGuEWCOyaPePIl2+EQEklzlyC3ePQ2bTsF5yJYjODhRtlsq4nBEe4G1dnQfutug0=
+trusted comment: timestamp:1794838876\tfile:voxear-0.1.0-manual.tar.zst\tversion:0.1.0
+aDUYPx7IWC3MxWT6KPgJ9oDt2AyWw/awae6P8fryd5yQXVXItIUaKZUMKFiDeD1Ar/PEGe4g48NvyvZ7AvBWDg==
+"""
 
 [[release]]
 version = "0.1.0-nightly.20261101"
