@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "notes": "Updates itself with nothing to set up. Custom engine releases beside the official ones, and a nightlies switch. Installs Whisk, the code editor. Installs into the app menu, with --install, --update and --uninstall.",
+  "pub_date": "2026-11-18T11:44:33.813963654Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRoZSBWb3hlYXIgcmVsZWFzZSBrZXkKUlVUME00UzRUTXNsUzY0VGtRUWlaYXBmaFl1QWtNaldaOTY5VlpoVkVjbFkwMVpTRXJaN1d3QkcxK01reWZOMHMrNDh3QkJpT1h6cnBOYVExcktVdEZ5YnluTXZiV3h0b3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMjczCWZpbGU6Vm94ZWFyLkxhdW5jaGVyXzAuMi4wX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4yLjAKN0E0b1Z0ZmVPOXVwM0duVmp1UU5lb0VGWXpDUE1JdzJhZVlrY1ZBeHhHUHpQcW4yNDlQc1Q2NmdpTDhpZmxvYUVOS29zbTNoODlZQWxlL0d0cTNRRFE9PQo=",
+      "url": "https://github.com/CookieJarTools/VoxearReleases/releases/download/launcher-v0.2.0/Voxear.Launcher_0.2.0_amd64.AppImage",
+      "sha256": "82f89109f5bf8ea4dcc9c7cf9c12e156edbedaa7affd6c108f2f997c4cb616e8",
+      "size": 82688504
+    },
+    "voxup-linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRoZSBWb3hlYXIgcmVsZWFzZSBrZXkKUlVUME00UzRUTXNsUy9lYWhCeTJnTG4xSFQ2WkR3QjZua1RWMTZZSU0weG9VSzZrdll5MjdyNSt5eU1NOVZEd0tvdVIyU2NqbVVvWXpJMUFCN3JqSmZQOTB1aG5DMElxdVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMjczCWZpbGU6dm94dXAtbGludXgteDg2XzY0CXZlcnNpb246MC4yLjAKRWNHNk9HUFdEbU9oNmtzWFBDSGtnUG9SQnVjS0hyREV6SzVMRTBUbGlRS1B5S1MvWkd1aTkvNWdiTkZkU205YzNYMm5UYXpkaEp0SGpkVG90SFgvQUE9PQo=",
+      "url": "https://github.com/CookieJarTools/VoxearReleases/releases/download/launcher-v0.2.0/voxup-linux-x86_64",
+      "sha256": "2499520250068a8f2f0c6dd3c139e839785e7cc60f0492eadcc99ad59c25ecc3",
+      "size": 5951136
+    },
+    "voxup-windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRoZSBWb3hlYXIgcmVsZWFzZSBrZXkKUlVUME00UzRUTXNsUzhkOVppcktpZXZDUzNtVUE5SHZ4UTgwSWxpYXFNNDhOUHpxd1VaSTl5ZWhyalBqYVhUZVBzM2krTTRwT3FSVEZzZjRoOG5hQVlqUitrdnZhTVNabGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMjczCWZpbGU6dm94dXAtd2luZG93cy14ODZfNjQuZXhlCXZlcnNpb246MC4yLjAKWHZwVitxb0tUQk1zeTlWTTBaV3dyaVJEQVBObHFiYTNvSG56Rm4rMTlwS2VWZm9JempkUGZwZTZBZGVEL3pteWUxa09icUNaUVRSTHJ2QVJOWnZFQ1E9PQo=",
+      "url": "https://github.com/CookieJarTools/VoxearReleases/releases/download/launcher-v0.2.0/voxup-windows-x86_64.exe",
+      "sha256": "455d37002ec9d67d63ed14fa137f95fbb68af9865487238d090f3e8e397255a2",
+      "size": 4560896
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRoZSBWb3hlYXIgcmVsZWFzZSBrZXkKUlVUME00UzRUTXNsUzNaMng5NFQvMEtjQTVUbDlQQ0wrZ3FxU2JHYmx2ejRSdTdJMWlpV2Fndm5RTjZTVHlyZEs2RWFvLy9HbzlzTmJtaEczS2lGRE5ld3R2aWF3TjlHQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMjczCWZpbGU6Vm94ZWFyLkxhdW5jaGVyXzAuMi4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMAprUlB5cVVYYmxCNDUzd2YrOHNQRm1iT2ZJM0YxOFgxdFhTRStZUjFmOFY1b25LU0pJOFN3eGJuQ3p6QUV6S0g5TEhXQmZlNUhaQ29XeXpJL0RSdDlBUT09Cg==",
+      "url": "https://github.com/CookieJarTools/VoxearReleases/releases/download/launcher-v0.2.0/Voxear.Launcher_0.2.0_x64-setup.exe",
+      "sha256": "8863f25d02ec26086ddb467207c247db601e20d048e0cba2181b7e4d9f7f95b2",
+      "size": 3081179
+    }
+  }
+}
