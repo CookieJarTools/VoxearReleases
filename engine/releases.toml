@@ -1,5 +1,5 @@
 format = 1
-generated = "2026-11-24T10:03:20.165054109Z"
+generated = "2026-11-25T02:38:02.12764025Z"
 
 [[release]]
 version = "0.1.1"
@@ -67,6 +67,74 @@ untrusted comment: signature from the Voxear release key
 RUT0M4S4TMslS2iDzC33bX87/yRQ9xyvHaBT5ZmIZcKLmkPuWzCwt4eEShD1hFcthc2OoDtjLMNhEdz3D8EB1wqGqmpNuQ1E6Ag=
 trusted comment: timestamp:1794841677\tfile:voxear-0.1.1-manual.tar.zst\tversion:0.1.1
 uNpC51e9K4uFT6w9WHZvOQ2RIpXn3vpdB5z8dPZ3cjll6PPgKO4WjWTaCnBPNaEGBMp7qDbTu86piqvEYFkyCQ==
+"""
+
+[[release]]
+version = "0.1.1-nightly.20261125"
+channel = "nightly"
+published = "2026-11-25T02:38:00.892466195Z"
+
+[[release.download]]
+platform = "linux-x86_64"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.1-nightly.20261125/voxear-0.1.1-nightly.20261125-linux-x86_64.tar.zst"
+size = 149273436
+sha256 = "311d0ff9ac3c1dd4f5e974a132022697c8aaa24f2d2ccd032a625bb813678a86"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS9v++ohvzaRXmrD04u23bBpMnKZ1F5UTzirxG28X0TfAPeDqTX3uGDdsWqA6MNS39L4EXTsUcl0+OwznmsgLSQg=
+trusted comment: timestamp:1795574280\tfile:voxear-0.1.1-nightly.20261125-linux-x86_64.tar.zst\tversion:0.1.1-nightly.20261125
+rte47VITGUF2tAXNQIpziObuHswZtGmqG74YzMHyEhnpMK/0zVdqXDiN7iirhOQfhBykdBW+0jtzBJayjiazAw==
+"""
+
+[[release.download.module]]
+name = "server"
+title = "Dedicated Server"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.1-nightly.20261125/voxear-0.1.1-nightly.20261125-linux-x86_64-server.tar.zst"
+size = 20450279
+sha256 = "19460cc51b3b46288c40d1bc5e635ae595d4c13fced87c8e50aaa3d1b861a1ad"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslSzxGmprmgFdbTSma+HFiVQhOSMpRuHS4xTa6nLN0Blj+TfQdC7dCypg1zmMMLClx2CbQ7bbIyDKz7uj0tkQ9EQw=
+trusted comment: timestamp:1795574281\tfile:voxear-0.1.1-nightly.20261125-linux-x86_64-server.tar.zst\tversion:0.1.1-nightly.20261125
+9A/gxjjlRZKAblR5GSztImyxQYvA81iHYJpVo+/uFb5vG7zyGlpEoJD7hN4LywuWszIXzWdCbvMABk+PZUVzCw==
+"""
+
+[[release.download]]
+platform = "windows-x86_64"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.1-nightly.20261125/voxear-0.1.1-nightly.20261125-windows-x86_64.tar.zst"
+size = 67077258
+sha256 = "78f30d0d7483134c7feb7902c6ad7f96e81684b6478becb911157c5b5f24ca11"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS5EdHJfZMc1AxWOwzuWhEMYbUipk5cTbfuyAo2U1JWR/W2m/w/AdlPAOqGCoY4cb7nGiDLa7Tvggto9GgMsRAww=
+trusted comment: timestamp:1795574281\tfile:voxear-0.1.1-nightly.20261125-windows-x86_64.tar.zst\tversion:0.1.1-nightly.20261125
+Y4/bTKEMi8/s3ReTchQR2quTCUTtiAqSuXFyswDWQFUk33GuKjP4MZsQQMA2XcYzLCJar70/Pta4caCa+jMmBA==
+"""
+
+[[release.download.module]]
+name = "server"
+title = "Dedicated Server"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.1-nightly.20261125/voxear-0.1.1-nightly.20261125-windows-x86_64-server.tar.zst"
+size = 18635344
+sha256 = "c0adf57fc19bd093506d6fd535573d90e1ec22352cf69a576454ebf317bae2c8"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslS0StH5uoI8KOUdDd7ifwzUaKdWp33e3aDCI0pbsh6C4h1pWFtAE5vF2KFahFikkfVAwjsB8WgyFQ1fuG7rfgCAk=
+trusted comment: timestamp:1795574281\tfile:voxear-0.1.1-nightly.20261125-windows-x86_64-server.tar.zst\tversion:0.1.1-nightly.20261125
+EMSch5ffSN1w9Yb8vWfqi51BYtYzJe3jF+pGn1VA2hgYXDSOp8f/DNMSoKZ3h35V9scDVhMOVVu62BiXXLf/AA==
+"""
+
+[[release.module]]
+name = "manual"
+title = "Voxear Manual"
+url = "https://github.com/CookieJarTools/VoxearReleases/releases/download/engine-v0.1.1-nightly.20261125/voxear-0.1.1-nightly.20261125-manual.tar.zst"
+size = 377355
+sha256 = "71adc5cdd62cefe7e25f359e9d78e6d855f5447e12fd78c6b32ce3676fddcfca"
+signature = """
+untrusted comment: signature from the Voxear release key
+RUT0M4S4TMslSzsBL6bIBK+15H66Qi5xjMYFyHTNTQWXEGpJyHfGIcJaCL9r+VrgLS+k0XdVKi8M/7AkIgpn7ttg6hKcqeFAkwU=
+trusted comment: timestamp:1795574281\tfile:voxear-0.1.1-nightly.20261125-manual.tar.zst\tversion:0.1.1-nightly.20261125
+4ui3OrMAyT3Yo5Fdv276zMNaR5Q/Nk44CVnmJ0ydgXje1GcdflpzvnlH0z/cY8yDsfx/snQ9+gVvpDC/cIyXCg==
 """
 
 [[release]]
